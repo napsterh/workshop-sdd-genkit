@@ -1,0 +1,1 @@
+console.log("🚀 Entorno configurado correctamente. Listo para implementar SDD y Genkit.");
